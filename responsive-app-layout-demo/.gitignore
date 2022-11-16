@@ -1,0 +1,24 @@
+# Maven
+#--------------------------------------------------
+
+/target/
+
+# JavaScript
+#--------------------------------------------------
+
+/node_modules/
+
+/package.json
+/package-lock.json
+
+/tsconfig.json
+/types.d.ts
+
+/vite.generated.ts
+
+# Vaadin
+#--------------------------------------------------
+
+/frontend/generated/
+
+
